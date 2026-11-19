@@ -47,13 +47,14 @@
 ### 📊 冒险者战力面板 / Adventurer Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ArthurSunny&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSunny&layout=compact&langs_count=8&theme=radical&border_radius=10"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ArthurSunny&show_icons=true&theme=radical&count_private=true&border_radius=10&locale=cn"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSunny&layout=compact&langs_count=8&theme=radical&border_radius=10&locale=cn"/>
 </div>
 
 <div align="center">
   <img height="165em" src="https://streak-stats.demolab.com?user=ArthurSunny&theme=radical&locale=zh_Hans&border_radius=10" alt="GitHub Streak" />
 </div>
+
 
 ---
 
